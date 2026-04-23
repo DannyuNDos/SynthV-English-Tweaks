@@ -85,7 +85,7 @@ function tweakEnglish(note, phones, nextVowelLang, nextVowelSymbol) {
                 newPhones.push("r");
             }
         }
-        else if (isVowel("english", phones[i])) {
+        else if (["aa", "ao"].indexOf(phones[i]) != -1) {
             newPhones.push(phones[i]);
             if (phones[i + 1] == "r" && (null == phones[i + 2] ? !isVowel(nextVowelLang, nextVowelSymbol) : !isVowel("english", phones[i + 2]))) {
                 ++i;
