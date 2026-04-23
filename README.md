@@ -7,7 +7,7 @@ A SynthV user script for tweaking English for the British pronunciation.
 Copy the attached JavaScript file to the `scripts` folder, as accessible by executing `Scripts > Open Scripts Folder` in the menu of SynthV.
 
 ### Execution
-In the SynthV Studio, select the notes that has English lyricsl, then press the button in `English Tweaks` sub-panel in the scripts panel. If this doesn't appear in the script panel, execute `Scripts > Rescan` in the menu bar, and try again.
+In the SynthV Studio, select the notes that has English lyrics, then press the button in `English Tweaks` sub-panel in the scripts panel. If this doesn't appear in the script panel, execute `Scripts > Rescan` in the menu bar, and try again.
 
 ## Limitations and Caveats
 Currently, the only feature of the British English pronunciation that this script acknowledges is the British R-colored vowels (that drop the R), namely the NURSE, START, NORTH, FORCE, and LETTER vowels (but not the NEAR, SQUARE, and CURE vowels).
