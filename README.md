@@ -10,7 +10,7 @@ Copy the attached JavaScript file to the `scripts` folder, as accessible by exec
 In the SynthV Studio, select the notes that has English lyricsl, then press the button in `English Tweaks` sub-panel in the scripts panel. If this doesn't appear in the script panel, execute `Scripts > Rescan` in the menu bar, and try again.
 
 ## Limitations and Caveats
-Currently, the only feature of the British English pronunciation that this script acknowledges is the British R-colored vowels (that drop the R), namely the NURSE, START, NORTH, and FORCE vowels (but not the NEAR, SQUARE, and CURE vowels).
+Currently, the only feature of the British English pronunciation that this script acknowledges is the British R-colored vowels (that drop the R), namely the NURSE, START, NORTH, FORCE, and LETTER vowels (but not the NEAR, SQUARE, and CURE vowels).
 
 Since SynthV employs the American tapped R by default, it is advisable to turn off the "Use relaxed consonants" option.
 
