@@ -14,6 +14,8 @@ Currently, the only feature of the British English pronunciation that this scrip
 
 Since SynthV employs the American tapped R by default, it is advisable to turn off the "Use relaxed consonants" option.
 
+This script will also acknowledge the phonemes that were overridden for the selected note (if there were). If this behavior is undesirable, reset the phonemes for the note.
+
 You need SynthV Studio 2 with the version of at least 2.1.2 to use this script.
 
 This script is guaranteed to work on only the standalone version of SynthV Studio 2. On the VSTi version, this script may suffer from compatibility issues.
