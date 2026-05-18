@@ -1,6 +1,6 @@
 function getClientInfo() {
     return {
-        "name": "Korean Tweaks",
+        "name": "English Tweaks",
         "category": "Unofficial language support",
         "author": "Dannyu NDos",
         "versionNumber": 0,
